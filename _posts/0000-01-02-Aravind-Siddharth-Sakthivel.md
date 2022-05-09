@@ -1,3 +1,6 @@
-This is my first branch
-This is a trial
-This is an intro to github
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
