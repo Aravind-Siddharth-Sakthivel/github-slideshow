@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The greatest update is coming soon!!!
+Welcome to the good times!!!!
 Use the left arrow to go back!
